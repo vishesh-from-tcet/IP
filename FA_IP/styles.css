@@ -1,0 +1,23 @@
+*{
+    margin: 10px;
+}
+
+body{
+    border-width: 2px;
+    border-style: solid;
+    box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+.big_box{
+    display:flex;
+}
+
+.left_box{
+    width: 40vw;
+    background-color: red;
+}
+
+.right_box{
+    width: 40vw;
+    background-color: blue;
+}
