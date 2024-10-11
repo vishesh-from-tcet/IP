@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General Hospital</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to General Hospital</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>General Hospital is dedicated to providing top-notch healthcare services for your entire family. We have a highly qualified team of medical professionals ready to assist you with your healthcare needs.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>General Hospital has been serving the community for over 50 years, offering a wide range of medical services, including emergency care, surgery, maternity, and outpatient services.</p>
+        <p>Our mission is to provide compassionate care with state-of-the-art technology.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Emergency Care</li>
+            <li>Outpatient Services</li>
+            <li>Surgery</li>
+            <li>Maternity</li>
+            <li>Cardiology</li>
+            <li>Orthopedics</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need assistance, feel free to reach out to us:</p>
+        <p>Email: info@generalhospital.com</p>
+        <p>Phone: +1 (123) 456-7890</p>
+        <p>Address: 123 Main Street, Your City, Country</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 General Hospital. All rights reserved.</p>
+    </footer>
+</body>
+</html>
